@@ -152,15 +152,3 @@ python3 bestbuy_scrapping.py
 3. Output file: `bestbuy_data.csv`
 
 ---
-
-## 🛡️ Legal Note
-
-This script is for **educational purposes** only. Do not use it for commercial purposes or in violation of BestBuy’s terms of service.
-
----
-
-## 👤 Author
-
-**Rishabh Kumar**  
-Short task: Store locator + service mapping via API  
-Contact: `22cs3047@rgipt.ac.in`
